@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @riddle-bash
-- 👀 I’m interested in ... chalk and cheese
+- 👋 Bonjour, je m'appelle @riddle-bash
+- 👀 Anglais, Francais and Vietnamien
 - 🌱 I’m currently learning ... everything
 - 💞️ I’m looking to collaborate on ... not yet
 - 📫 How to reach me ...
